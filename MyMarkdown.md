@@ -1,10 +1,15 @@
 # ✨ MiracleDex Project Report
 
 **Student Name: Frederick Oppong**
+
 **Course: CSCI 270 – Web/Mobile App Development**
+
 **Project Title: MiracleDex Website Project**
+
 **Submission Date: Jun 11, 2025**
+
 **GitHub Repo:  https://github.com/fredericoop12345/miracle-site**
+
 **Live Site (GitHub Pages): https://fredericoop12345.github.io/miracle-site/**
 
 ---
@@ -170,6 +175,7 @@ h1 {
 ````
 
 ### 🖋️ Reflection
+
 Firstly, the most difficult challenge I faced was deploying the interactive logic of Javascript throughout the project. What challenges did you face in designing a responsive layout? What did you learn about structuring HTML/CSS for real-world use?
 
 ---
@@ -249,10 +255,12 @@ loadMiracles();
 
 ### 🖋️ Reflection
 **What did you learn about asynchronous JavaScript? What debugging techniques did you use or discover?**
+
 At this point, I cannot say the way I went about it was really involving debugging.
 I am used to the two syntaxes of asynchronous functions and each of them had their own unique way to go about it.
 The assigning of the await .json file to a variable feels more comfortable to me right now than the .then process.
 I currently don't know if there is a situation where using the .then will be better than await but I feel the logic to all of them is so far the same.
+
 ---
 
 ## 🔷 Part 3 — GitHub Repository and Documentation
@@ -263,19 +271,24 @@ I currently don't know if there is a situation where using the .then will be bet
 - [✅] `README.md` contains project description, instructions, and screenshots
 
 ### 📎 Links
-- **GitHub Repo:** [Paste link here]
-- **Live GitHub Pages Site:** [Paste link here]
+- **GitHub Repo: https://github.com/fredericoop12345/miracle-site**
+- **Live GitHub Pages Site: https://fredericoop12345.github.io/miracle-site/**
 
 ### 🖋️ Reflection
+
 Honestly, my work did not include consistent pushing of code to Github but I finished it and pushed it to Github.
 Consistently committing is not so easy to do.
+
 ---
 
 ## 🧠 Final Reflection
+
 If I am to explain to a friend what this project is about.
 I would specifically mention it as more of getting adjusted to web development and the workflow of working on such a field.
 I say this because although I learnt the html, css and Javascript, it is not until I understand that arranging these elements together will produce this or that effect.
-For example, after finishing my Javascript file, I only had the load button and only after it is clicked will the miracle cards start to appear. It was not until I realized just defining the function will make them load but declaring it at the end to run is also necessary and even this has to be done with the effect I have to produce in mind.
+For example, after finishing my Javascript file, I only had the load button and only after it is clicked will the miracle cards start to appear. 
+It was not until I realized just defining the function will make them load but declaring it at the end to run is also necessary and even this has to be done with the effect I have to produce in mind.
+
 ---
 
 <sub>Assignment created by Dr. Trevor Tomesh with assistance from ChatGPT. All source miracle data provided from public JSON: https://gist.github.com/trevortomesh/7bbf97b2fbae96639ebf1a254b6a7a70</sub>
