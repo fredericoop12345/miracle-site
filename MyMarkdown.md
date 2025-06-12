@@ -1,3 +1,5 @@
+#I DO NOT CONSENT TO AI ASSISTED GRADING
+
 # ✨ MiracleDex Project Report
 
 **Student Name: Frederick Oppong**
@@ -290,4 +292,4 @@ It was not until I realized just defining the function will make them load but d
 
 ---
 
-<sub>Assignment created by Dr. Trevor Tomesh with assistance from ChatGPT. All source miracle data provided from public JSON: https://gist.github.com/trevortomesh/7bbf97b2fbae96639ebf1a254b6a7a70</sub>
+<sub>Assignment done by Frederick Oppong with assistance from ChatGPT. I used ChatGPT to help with the following parts of the miracle project: 1. I used chatGPT's advice on using the rem dimension for some CSSA properties to ensure consistencies across devices. 2. ChatGpt recommended using some pseudo effects like Hover and properties like transform, cursor: pointer, ease-in-out for my project. I also used chatGpt to deply the asynchronous function syntax. 3. I learnt from chatGpt to also use "none" value keyword to deply hiding my loadmore button when all has finished loading or as when the current Index becomes greater than or equal to the miracle card entries. Lastly, i used ChatGpt to explain the logic of allowing some elements to be on the page before the rest as sequentially loaded when the Load more button is clicked. All source miracle data provided from public JSON: https://gist.github.com/trevortomesh/7bbf97b2fbae96639ebf1a254b6a7a70</sub>
