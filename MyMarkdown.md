@@ -4,7 +4,7 @@
 **Course:** CSCI 270 – Web/Mobile App Development
 **Project Title: MiracleDex Website Project**
 **Submission Date: Jun 11, 2025**
-**GitHub Repo:** [Paste link here]
+**GitHub Repo:** https://github.com/fredericoop12345/miracle-site
 **Live Site (GitHub Pages):** [Paste link here]
 
 ---
