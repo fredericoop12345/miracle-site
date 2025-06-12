@@ -277,14 +277,13 @@ I currently don't know if there is a situation where using the .then will be bet
 ### 🖋️ Reflection
 
 Honestly, my work did not include consistent pushing of code to Github but I finished it and pushed it to Github.
-Consistently committing is not so easy to do.
+Consistently committing is not so easy to do. I only edited on Github after that and committed on Github.
 
 ---
 
 ## 🧠 Final Reflection
 
-If I am to explain to a friend what this project is about.
-I would specifically mention it as more of getting adjusted to web development and the workflow of working on such a field.
+If I am to explain to a friend what this project is about, I would specifically mention it as more of getting adjusted to web development and the workflow of working on such a field.
 I say this because although I learnt the html, css and Javascript, it is not until I understand that arranging these elements together will produce this or that effect.
 For example, after finishing my Javascript file, I only had the load button and only after it is clicked will the miracle cards start to appear. 
 It was not until I realized just defining the function will make them load but declaring it at the end to run is also necessary and even this has to be done with the effect I have to produce in mind.
