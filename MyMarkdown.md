@@ -1,11 +1,11 @@
 # ✨ MiracleDex Project Report
 
 **Student Name: Frederick Oppong**
-**Course:** CSCI 270 – Web/Mobile App Development
+**Course: CSCI 270 – Web/Mobile App Development**
 **Project Title: MiracleDex Website Project**
 **Submission Date: Jun 11, 2025**
-**GitHub Repo:** https://github.com/fredericoop12345/miracle-site
-**Live Site (GitHub Pages):** [Paste link here]
+**GitHub Repo:  https://github.com/fredericoop12345/miracle-site**
+**Live Site (GitHub Pages): https://fredericoop12345.github.io/miracle-site/**
 
 ---
 
