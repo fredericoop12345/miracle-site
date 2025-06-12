@@ -176,7 +176,7 @@ h1 {
 
 ### 🖋️ Reflection
 
-Firstly, the most difficult challenge I faced was deploying the interactive logic of Javascript throughout the project. What challenges did you face in designing a responsive layout? What did you learn about structuring HTML/CSS for real-world use?
+Firstly, the most difficult challenge I faced was deploying the interactive logic of Javascript throughout the project. I figured there could be possibly more than one way to develop the interactivity I want the page to have. For instance, I could hard code all the elements into the html with this project While hiding all leaving only three and releasing other threes in batches from being hidden to unhidden when the "Load more" Button is clicked(which is not like the exact way Sir instructed us to do in the project by letting javascript produce the loaded elements). Above all, I think i will always need to go back at look at sample code unless I am comfortably eloquent with it.
 
 ---
 
