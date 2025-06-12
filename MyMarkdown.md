@@ -74,7 +74,7 @@ This is the HTML
 This is the CSS
 ````
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: sans-serif;
   background-color: #fdfaf6;
   margin: 0;
   padding: 0;
@@ -88,7 +88,7 @@ body {
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: serif;
   font-size: 2.5rem;
   margin-bottom: 0.25rem;
 }
@@ -160,7 +160,6 @@ h1 {
   display: none;
 }
 
-/* 📱 Media Queries */
 @media (max-width: 600px) {
   h1 {
     font-size: 1.8rem;
